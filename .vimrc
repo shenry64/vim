@@ -1,3 +1,4 @@
 syntax on
 
-colorscheme desert
+set tabstop=4
+set noexpandtab
